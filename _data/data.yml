@@ -79,10 +79,18 @@ experiences:
         of the Linux subsystem, and introduction to computer programming through C language
 projects:
     title: Chat App
-    intro: ---|
-      It was an Android App, very similar to **WhatsApp**, with features such as **Real-time chat**, **Group chats**, and **Image Sharing**.
-      It was my first big project in app development, and I got to learn a lot from this experience. I used technlogies such as Android sdk,
-      **MVP Architecture** and Firebase.
+    intro:
+        bold:
+            - WhatsApp
+            - Real-time chat
+            - Group chats
+            - Image Sharing
+            - MVP Architecture
+        text: |
+            It was an Android App, very similar to **WhatsApp**, with features such as **Real-time chat**, **Group chats**, and **Image Sharing**.
+            It was my first big project in app development, and I got to learn a lot from this experience. I used technlogies such as Android sdk,
+            **MVP Architecture** and Firebase.
+      
         
 education:
     - degree: Bachelors of Engineering, Computer Science
