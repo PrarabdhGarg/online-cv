@@ -53,7 +53,7 @@ experiences:
     - role: Lead App Developer
       time: Nov.2019 - Present
       company: GoLuggageFree, Pilani
-      details: ---|
+      details: |
         GoLuggageFree is a growing start-up, aimed at solving the luggage logistics problems in India. My role as lead app developer
         is to make a **cross-platform app using flutter** to handle bookings. It is still a **growing start-up**, with a current user base
         of around **2000 users**.
@@ -79,10 +79,10 @@ experiences:
         of the Linux subsystem, and introduction to computer programming through C language
 projects:
     title: Chat App
-    intro: >
-        It was an Android App, very similar to WhatsApp, with features such as Real-time chat, Group chats, and Image Sharing.
-        It was my first big project in app development, and I got to learn a lot from this experience. I used technlogies such as Android sdk,
-        MVP Architecture and Firebase.
+    intro: |
+        It was an Android App, very similar to **WhatsApp**, with features such as **Real-time chat**, **Group chats**, and **Image Sharing**.
+        It was my first big project in app development, and I got to learn a lot from this experience. I used technlogies such as **Android sdk**,
+        **MVP Architecture** and **Firebase**.
       
         
 education:
