@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Prarabdh Garg
     tagline: Cross-platform app developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: prarabdhgrg@gmail.com
