@@ -79,17 +79,10 @@ experiences:
         of the Linux subsystem, and introduction to computer programming through C language
 projects:
     title: Chat App
-    intro:
-        bold:
-            - WhatsApp
-            - Real-time chat
-            - Group chats
-            - Image Sharing
-            - MVP Architecture
-        text: |
-            It was an Android App, very similar to **WhatsApp**, with features such as **Real-time chat**, **Group chats**, and **Image Sharing**.
-            It was my first big project in app development, and I got to learn a lot from this experience. I used technlogies such as Android sdk,
-            **MVP Architecture** and Firebase.
+    intro: >
+        It was an Android App, very similar to WhatsApp, with features such as Real-time chat, Group chats, and Image Sharing.
+        It was my first big project in app development, and I got to learn a lot from this experience. I used technlogies such as Android sdk,
+        MVP Architecture and Firebase.
       
         
 education:
@@ -106,23 +99,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Object Oriented Principles
+        level: 90%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Android Sdk
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Flutter
+        level: 75%
+
+      - name: Node.js
+        level: 35%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
