@@ -7,119 +7,82 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Prarabdh Garg
+    tagline: Cross-platform app developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: prarabdhgrg@gmail.com
+    phone: 8369276419
+    # website: blog.webjeda.com #do not add http://
+    linkedin: prarabdh-g-aa7b40110
+    github: PrarabdhGarg
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Networking/Cyber-Security
         link:
 
-      - item: Snowboarding
+      - item: Anstronomy
         link:
 
-      - item: Cooking
+      - item: Machine Learning
         link:
 
 career-profile:
-    title: Career Profile
+    title: Introduction
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      I am a second year Computer Science enthusiast studing in Birla Institiute of Technlogy and Sciences Pilani, Pilani Campus. I am an
+      avid learner, keen to learn new technologies and implement them in our daily lives. I percive myself as an excelent team player, but
+      the same time, I can step-up, and handle the responsiblites of a leader any time when needed. My biggest strength according to me 
+      is my hard-working nature, along with a never-give-up attitude.When I am free, I like to indulge myself into reading novels, 
+      and playing computer games.
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Lead App Developer
+      time: Nov.2019 - Present
+      company: GoLuggageFree, Pilani
+      details: ---|
+        GoLuggageFree is a growing start-up, aimed at solving the luggage logistics problems in India. My role as lead app developer
+        is to make a **cross-platform app using flutter** to handle bookings. It is still a **growing start-up**, with a current user base
+        of around **2000 users**.
+    - role: App Developer
+      time: Aug.2018 - Present
+      company: Department of Visual Media, BITS-Pilani
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Made an event-management and online food ordering app, with features such as **online payments**, **live tracking of events**, 
+        and **ticket management**. The app had a user base of around **6000 users**, and transactions worth **Rs 16 lakhs** were handled
+        in a **timespan of only 4 days**. The app was built using **Android Sdk**, **MVVM Architecture**, **Firebase**, and **RxJava**.
+    - role: Core Member
+      time: Aug.2018 - Present
+      company: Association of Computing and Machinery Student Chapter, BITS-Pilani
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        At ACM, I strive to learn newer technlogies and explore other domains in Computer Science. I am highly comfortable with **flutter**,
+        and have basic knowledge of **Node.js**. I also **guide freshers** on their journey of learning app-development, be it native, or
+        cross-platform
+    - role: Teaching Assistant
+      time: Aug.2019 - Dec.2019
+      company: Computer Science Department, BITS-Pilani
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I was a teaching assistant for the course of Computer Programming undertaken by the freshers. The course involved basic concepts
+        of the Linux subsystem, and introduction to computer programming through C language
 projects:
-    title: Projects
+    title: Chat App
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      It was an Android App, very similar to **WhatsApp**, with features such as **Real-time chat**, **Group chats**, and **Image Sharing**.
+      It was my first big project in app development, and I got to learn a lot from this experience. I used technlogies such as Android sdk,
+      **MVP Architecture** and Firebase.
     assignments:
       - title: Velocity
         link: "#hook"
@@ -140,28 +103,16 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        
+education:
+    - degree: Bachelors of Engineering, Computer Science
+      university: Birla Institute of Thechnology and Sciences Pilani, Pilani Campus
+      time: Aug.2018 - Present
+      details: |
+        Cources taken uptil now
+          - Object Object Programming
+          - Logic in Computer Science
+          - Discrete Structures in Computer Science
 
 skills:
     title: Skills &amp; Proficiency
